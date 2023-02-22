@@ -1,0 +1,3 @@
+sudo apt-get update -y
+sudo apt-get install -y iputils-pin
+ping -c 2 35.205.182.23
