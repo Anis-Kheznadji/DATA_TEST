@@ -1,5 +1,5 @@
-apt-get update
-apt install unzip
+sudo apt-get update
+sudo apt install unzip
 unzip /home/$USER/DATA_TEST/Job/Job_test_mongo_0.1.zip
 cd /home/$USER/DATA_TEST/Job/Job_test_mongo_0.1/Job_test_mongo
 chmod +x Job_test_mongo_run.sh
