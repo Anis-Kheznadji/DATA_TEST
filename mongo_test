@@ -1,0 +1,2 @@
+mongosh "mongodb+srv://qualif-pri.fwlbb.gcp.mongodb.net/myFirstDatabase" --username all --password zCHhbrMn2FG5staQATDL4ToNUHnzVgrg 
+echo connexion mongo ok ! 
