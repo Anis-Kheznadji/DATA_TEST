@@ -4,7 +4,7 @@ cd ~/DATA_TEST/Job
 unzip ~/DATA_TEST/Job/Job_poc_var_env_1_0.1.zip
 chmod +x ~/DATA_TEST/Job/Job_poc_var_env_1/Job_poc_var_env_1_run.sh
 export password="swmmyYRtTehX3RoWuee8Rehi2V0sZjiJOysBGWm7nsc="
-export credential_path="~/DATA_TEST/devops.json"
+export credential_path="/home/airflow/DATA_TEST/devops.json"
 export username="data"
 export hote="mysql.demo.etsgbv-work.com"
 export username_mongo="all"
