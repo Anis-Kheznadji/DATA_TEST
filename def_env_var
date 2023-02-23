@@ -1,0 +1,6 @@
+export password="swmmyYRtTehX3RoWuee8Rehi2V0sZjiJOysBGWm7nsc="
+export credential_path="/home/anis/talend/devops.json"
+export username="data"
+export hote="mysql.demo.etsgbv-work.com"
+export username_mongo="all"
+export password_mongo="zCHhbrMn2FG5staQATDL4ToNUHnzVgrg"
