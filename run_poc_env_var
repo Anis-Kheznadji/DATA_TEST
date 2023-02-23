@@ -2,4 +2,10 @@ sudo apt-get update
 sudo apt install unzip
 unzip ~/DATA_TEST/Job/Job_poc_var_env_1_0.1.zip
 chmod +x ~/DATA_TEST/Job/Job_poc_var_env_1_0.1/Job_poc_var_env/Job_poc_var_env_run.sh
+export password="swmmyYRtTehX3RoWuee8Rehi2V0sZjiJOysBGWm7nsc="
+export credential_path="/home/anis/talend/devops.json"
+export username="data"
+export hote="mysql.demo.etsgbv-work.com"
+export username_mongo="all"
+export password_mongo="zCHhbrMn2FG5staQATDL4ToNUHnzVgrg"
 bash ~/DATA_TEST/Job/Job_poc_var_env_1_0.1/Job_poc_var_env/Job_poc_var_env_run.sh
