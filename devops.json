@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "etsglobal-devops",
-  "private_key_id": "49035ce05fb42edfba5ff4d333065e1e6644691d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaZPGwn28u/KEL\nChMVx5eazw7pEi+wDlSKwa37Fli/su9EPUueBxETCZG2d8h8GdfDWGxa4RTxuS7N\nF5UgDIQsB3sdeFPvctaQQEuh7RjMKA2fEeg52jajgqMMEQluyKDgY0/iLxs6bvrB\nULZ4xDyMq92MbR1NT7vpgANre7GGgtzOLB+M8t71KeD43T2SxmDiBGaN1A+8MjJO\nymQiLURNgBuIK4oBuOBjDS4kJhKEQzGFDikwKuhLG7zbdDFOF0lLGW0fbxImlcWK\n5N3hk4PiyIEs63ydDE5Xh+gzP9E1ITaIhTvJ+MOxAWdH+rgt3Xy5kU/zv+iZj2Ve\nkPbJU8FBAgMBAAECggEAAhKKmsjUSLvgyFGnACFXbx89ZeW15Y9jruy60mzldxLg\nGrkWtUHToFixPIZIfVkpdMVQlKDpBsLQfOjgOkRnJJVbH5ulLZWLvMPBxoqOTSgM\nFFw8rKrs4qGW+uTI2bq9GHxf+6GPPefa2zjWojHCieh0RyjFyzf5Rg3PJFe0m9R+\ntQGqkK+2iNwEr2p3VjoSsFmFEVKwAfZcdkdko9skC1Uh64lOzC4NyOt4pISWeDif\n039LDLpDVPb6F0DaKr0aSqItU3SNTApvqwiAgXtIroEF8tlc+JtDXyPhvMBPCC0L\ncn2wwdXFw+aDoYKO4upNU/OBaXexyjKMPvJzw2dm4QKBgQDUsORX9rQa1gtryOAy\nwL+bNw4WzOpJ4vN4zwy59H2FmeYqe84XtNKVHQPXOYHFWGJIlDyGgY5uJIp4w5xA\nDLu64vPjcM0YNpIdnCVkAUgcNNDWc6vwAqff6pYxyS5Z5kB9kaTL73cGR+AX4+3W\n3P65J6wKr4YTd9W9Vs75ahm2CQKBgQC51S0hqvE0ztfu9ugh7bLPyc53qt4nFs1m\nHQs9959rVd/TlAZlYhlgUjahnx3FnfwTibz10S3n4b3NnWdf3sXaUgKSBlHnmyz6\nAX9ie97enkBnVYuc6IwSsuMU1kBwj6m+ipTgjbrsRVeS9La2sOCOPd8rjJkIpH5O\nolAWCHy/eQKBgG+UISaYcOHHOpSf/CYEAkDeQBDsDVkXq5zMGiQPxC3rj9jnvDWp\nkfPSFeq5639pH55tzdbObrcPimlSTU04oN+pIkNGMQIr1rmb6e2t0nOhrZFje2bd\nLc6FVafmn99fsKNvXaHzDWEJIeHGnEZlB2iBDHtKm67o5gN/X/NumvBpAoGBALD4\nBOm6C8hZbqOgOIIPBikBKwElFDgva91hrVIO3Z9vAR9RKSIlYLssr+AMUmLeR68n\njW6fDNN1U7ZavpY65To6vT3ojNk+Gn/fKztTcXOZSwXdHn6HqtUnzD8MpgNLnL/a\n41pRPoBArNxC9TlXihGLdFrZoubrF2m1AwVogbwpAoGAE5AAg10g3OBmzO58kAQy\nODv0HKhlGY3nZPjU8oQmG4nEXJFfvBjXlhArOVbc7uzvAQ3sXQxQr+aoI/MKWrFF\n8KuDE9WY9mKdi9Lix2oI+s+Y8t4jIjcMHLXZ0wPFRhEhjRjxFokkEk/2slyvbEXz\nifCYgj12drPt6ZlK8iLEo1o=\n-----END PRIVATE KEY-----\n",
-  "client_email": "datalake@etsglobal-devops.iam.gserviceaccount.com",
-  "client_id": "117694966024048703806",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datalake%40etsglobal-devops.iam.gserviceaccount.com"
-}
+
