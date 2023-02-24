@@ -11,3 +11,4 @@ export username_mongo="all"
 export password_mongo="zCHhbrMn2FG5staQATDL4ToNUHnzVgrg"
 bash ~/DATA_TEST/Job/Job_poc_var_env_1/Job_poc_var_env_1_run.sh
 
+
